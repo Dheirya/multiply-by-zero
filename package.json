@@ -1,0 +1,59 @@
+{
+  "name": "multiply-by-zero",
+  "version": "1.0.0",
+  "description": "Multiplies a number by zero. Useful for when you need to multiply a number by zero.",
+  "license": "MIT",
+  "repository": "dheirya/multiply-by-zero",
+  "homepage": "https://github.com/dheirya/multiply-by-zero",
+  "author": "Dheirya Tyagi (https://github.com/dheirya)",
+  "bugs": {
+    "url": "https://github.com/dheirya/multiply-by-zero/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.1.14"
+  },
+  "keywords": [
+    "zero",
+    "zeros",
+    "multiply",
+    "multiplication",
+    "times",
+    "product",
+    "multiplies",
+    "math",
+    "calculate",
+    "calculation",
+    "calculator",
+    "calculate-values",
+    "estimate",
+    "computation",
+    "add",
+    "addition",
+    "number",
+    "numbers",
+    "integer",
+    "integers",
+    "decimal",
+    "decimals",
+    "int",
+    "integer-numbers",
+    "numeric",
+    "is-numeric",
+    "is",
+    "isnan",
+    "is-nan",
+    "is-num",
+    "is-number",
+    "isnumber",
+    "string",
+    "strings",
+    "array",
+    "arrays",
+    "count",
+    "counting"
+  ]
+}

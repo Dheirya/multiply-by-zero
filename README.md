@@ -34,8 +34,8 @@ console.log(multiplyByZero('Number')); //=> Can't multiply a string by Zero
 
 **Dheirya Tyagi**
 
-* [All My Links](https://linkpop.com/dheirya)
-* [About Me](https://linkpop.com/dheirya)
+* [All My Links](https://dheirya.is-a.dev)
+* [About Me](https://dheirya.is-a.dev)
 * [GitHub Profile](https://github.com/dheirya)
 * [Twitter Profile](https://twitter.com/DheiryaTyagi)
 * [Social Rumbles Profile](https://socialrumbles.com/@Dheirya_Tyagi_CEO)
